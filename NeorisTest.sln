@@ -5,6 +5,10 @@ VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeorisTest", "NeorisTest\NeorisTest.csproj", "{DC72065D-50D5-4159-9BDD-5731A5DFB193}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{BC7A7B49-8E37-49FA-ABA3-8F7E2ECFD4B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructura", "Infrastructura\Infrastructura.csproj", "{C63944B8-2C4E-4574-BA0F-9ADC3A70BE79}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{DC72065D-50D5-4159-9BDD-5731A5DFB193}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC72065D-50D5-4159-9BDD-5731A5DFB193}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC72065D-50D5-4159-9BDD-5731A5DFB193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC7A7B49-8E37-49FA-ABA3-8F7E2ECFD4B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC7A7B49-8E37-49FA-ABA3-8F7E2ECFD4B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC7A7B49-8E37-49FA-ABA3-8F7E2ECFD4B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC7A7B49-8E37-49FA-ABA3-8F7E2ECFD4B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C63944B8-2C4E-4574-BA0F-9ADC3A70BE79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C63944B8-2C4E-4574-BA0F-9ADC3A70BE79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C63944B8-2C4E-4574-BA0F-9ADC3A70BE79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C63944B8-2C4E-4574-BA0F-9ADC3A70BE79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
